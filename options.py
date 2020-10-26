@@ -11,7 +11,7 @@ stablePntsIDs = [33, 36, 39, 42, 45]
 
 
 # the path to the data
-data_path = "small_data_info.csv" 
+data_path = "data_info.csv" 
 
 
 # the path to the data
